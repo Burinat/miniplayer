@@ -18,11 +18,11 @@ C → Activa/desactiva mode edit (overlay)
 ← → ↑ ↓ → Mou cantonada seleccionada
 ESC → Surt del programa
 
-**Nota**: Quan desactives edit (C), el vídeo queda **net** però amb keystone aplicat permanentment.
+*Nota*: Quan desactives edit (C), el vídeo queda *net* però amb keystone aplicat permanentment.
 
 ## 📱 Exemple d'ús
 
-📁 Events/
+📁 Events/<br>
 ├── miniplayer.exe ← Executable
 └── 📁 videos/
       ├── intro.mp4
