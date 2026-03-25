@@ -21,14 +21,14 @@ ESC → Surt del programa
 *Nota*: Quan desactives edit (C), el vídeo queda *net* però amb keystone aplicat permanentment.
 
 ## 📱 Exemple d'ús
-
+'''
 📁 MP/<br>
 ├── miniplayer.exe ← Executable<br>
 └── 📁 videos/<br>
       ├── intro.mp4<br>
       ├── main_content.mp4<br>
       └── outro.mp4<br>
-
+'''
 
 ## 💻 Instal·lació
 
