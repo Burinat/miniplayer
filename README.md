@@ -22,7 +22,7 @@ ESC → Surt del programa
 
 ## 📱 Exemple d'ús
 
-📁 Events/<br>
+📁 MP/<br>
 ├── miniplayer.exe ← Executable<br>
 └── 📁 videos/<br>
       ├── intro.mp4<br>
