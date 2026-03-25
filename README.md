@@ -1,8 +1,6 @@
 # 🎬 MiniPlayer - Video Keystone Player
 
-**Reproductor de vídeo en bucle amb correcció de perspectiva (keystone) en temps real per projectors i pantalles.**
-
-![icona](./icona.png)
+Reproductor de vídeo en bucle amb correcció de perspectiva (keystone) en temps real per projectors i pantalles.
 
 ## ✨ Com funciona
 
