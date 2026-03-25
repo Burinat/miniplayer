@@ -23,11 +23,11 @@ ESC → Surt del programa
 ## 📱 Exemple d'ús
 
 📁 Events/<br>
-├── miniplayer.exe ← Executable
-└── 📁 videos/
-      ├── intro.mp4
-      ├── main_content.mp4
-      └── outro.mp4
+├── miniplayer.exe ← Executable<br>
+└── 📁 videos/<br>
+      ├── intro.mp4<br>
+      ├── main_content.mp4<br>
+      └── outro.mp4<br>
 
 
 ## 💻 Instal·lació
