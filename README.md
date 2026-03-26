@@ -16,6 +16,7 @@ Reproductor de vídeo en bucle amb correcció de perspectiva (keystone) en temps
 | 1, 2, 3, 4 | Selecciona cantonada (verd = activa)|
 | ← → ↑ ↓ | Mou cantonada seleccionada|
 | ESC | Surt del programa|
+
 *Nota*: Quan desactives edit (C), el vídeo queda *net* però amb keystone aplicat permanentment.
 
 ## 📱 Exemple d'ús
