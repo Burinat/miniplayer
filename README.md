@@ -27,6 +27,7 @@ Reproductor de vídeo en bucle amb correcció de perspectiva (keystone) en temps
       ├── main_content.mp4
       └── outro.mp4
 </pre>
+
 *Nota*: Els vídeos es reprodueixen per ordre alfabètic dins la carpeta, si vols assegurar l'ordre de reproducció *suggerim* posar números al davant (01, 02...).
 
 ## 💻 Instal·lació
