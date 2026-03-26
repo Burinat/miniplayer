@@ -48,5 +48,21 @@ ESC → Surt del programa<br>
 - **Presentacions** amb vídeo mapping
 - **DJ sets** amb projectors
 
+##📄 Llicència
+
+[![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+L'Snake 1K està sota llicència **Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)**.
+
+> Pots **copiar, modificar, distribuir i fins i tot vendre** derivats del codi sempre que:
+> - **Citis l'autor original**
+> - **Enllaços a la llicència**: https://creativecommons.org/licenses/by/4.0/
+
+
+Fet amb python i ❤️ per [Burinat](https://github.com/Burinat)
+
+⭐ Star si t'ha servit!
+
+
 ---
 *Versió 1.0 - Març 2026*
