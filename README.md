@@ -10,11 +10,12 @@ Reproductor de vídeo en bucle amb correcció de perspectiva (keystone) en temps
 4. **Fullscreen** adaptat a la resolució de la teva pantalla
 
 ## 🎛️ Controls Keystone (correcció perspectiva)
-
-C → Activa/desactiva mode edit (overlay)<br>
-1, 2, 3, 4 → Selecciona cantonada (verd = activa)<br>
-← → ↑ ↓ → Mou cantonada seleccionada<br>
-ESC → Surt del programa<br>
+| Tecla | Acció |
+|-----------|------------------------|
+| C | Activa/desactiva mode edit (overlay)|
+| 1, 2, 3, 4 | Selecciona cantonada (verd = activa)|
+| ← → ↑ ↓ | Mou cantonada seleccionada|
+| ESC | Surt del programa|
 
 *Nota*: Quan desactives edit (C), el vídeo queda *net* però amb keystone aplicat permanentment.
 
